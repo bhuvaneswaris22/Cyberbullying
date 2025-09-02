@@ -62,7 +62,7 @@ This project detects cyberbullying content on social media platforms like **Twit
 
 1. Clone the repository
 
-git clone https://github.com/bhuvaneswari22/cyberbullying-detection.git
+git clone https://github.com/bhuvaneswaris22/cyberbullying-detection.git
 cd cyberbullying-detection
 
 
